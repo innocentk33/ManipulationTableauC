@@ -1,2 +1,2 @@
 # ManipulationTableauC
-Manipulation des tableau en C
+Manipulation des tableaux en C
